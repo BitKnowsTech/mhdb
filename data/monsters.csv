@@ -1,0 +1,330 @@
+"id","name","is_large"
+1,Apceros,0
+2,Aptonoth,0
+3,Bullfango,0
+4,Cephalos,0
+5,Felyne,0
+6,Genprey,0
+7,Hornetaur,0
+8,Ioprey,0
+9,Kelbi,0
+10,Melynx,0
+11,Mosswine,0
+12,Velociprey,0
+13,Vespoid,0
+14,Basarios,1
+15,Cephadrome,1
+16,Diablos,1
+17,Fatalis,1
+18,Gendrome,1
+19,Gravios,1
+20,Gypceros,1
+21,Iodrome,1
+22,Khezu,1
+23,Kirin,1
+24,Lao-Shan Lung,1
+25,Monoblos,1
+26,Plesioth,1
+27,Rathalos,1
+28,Rathian,1
+29,Velocidrome,1
+30,Yian Kut-Ku,1
+31,Giaprey,0
+32,Black Diablos,1
+33,Crimson Fatalis,1
+34,Black Gravios,1
+35,Purple Gypceros,1
+36,Red Khezu,1
+37,Ashen Lao-Shan Lung,1
+38,White Monoblos,1
+39,Green Plesioth,1
+40,Azure Rathalos,1
+41,Silver Rathalos,1
+42,Pink Rathian,1
+43,Gold Rathian,1
+44,Blue Yian Kut-Ku,1
+45,Scarred Yian Garuga,1
+46,Shakalaka,0
+47,Great Thunderbug,0
+48,Anteka,0
+49,Popo,0
+50,Yian Garuga,1
+51,Remobra,0
+52,Hermitaur,0
+53,Daimyo Hermitaur,1
+54,Ceanataur,0
+55,Shogun Ceanataur,1
+56,Shen Gaoren,1
+57,Bulldrome,1
+58,Conga,0
+59,Congalala,1
+60,Blango,0
+61,Blangonga,1
+62,Rajang,1
+63,Kushala Daora,1
+64,Rusted Kushala Daora,1
+65,Chameleos,1
+66,Lunastra,1
+67,Teostra,1
+68,Yama Tsukami,1
+69,White Fatalis,1
+70,Giadrome,1
+71,Tigrex,1
+72,Akantor,1
+73,King Shakalaka,1
+74,Vespoid Queen,1
+75,Nargacuga,1
+76,Ukanlos,1
+77,Lavasioth,1
+78,Plum Daimyo Hermitaur,1
+79,Terra Shogun Ceanataur,1
+80,Emerald Congalala,1
+81,Copper Blangonga,1
+82,Furious Rajang,1
+83,Altaroth,0
+84,Baggi,0
+85,Bnahabra,0
+86,Delex,0
+87,Epioth,0
+88,Giggi,0
+89,Jaggi,0
+90,Jaggia,0
+91,Ludroth,0
+92,Rhenoplos,0
+93,Uroktor,0
+94,Barioth,1
+95,Barroth,1
+96,Deviljho,1
+97,Gigginox,1
+98,Gobul,1
+99,Great Baggi,1
+100,Great Jaggi,1
+101,Lagiacrus,1
+102,Qurupeco,1
+103,Royal Ludroth,1
+104,Uragaan,1
+105,Alatreon,1
+106,Ceadeus,1
+107,Jhen Mohran,1
+108,Gargwa,0
+109,Slagtoth,0
+110,Wroggi,0
+111,Glacial Agnaktor,1
+112,Arzuros,1
+113,Sand Barioth,1
+114,Jade Barroth,1
+115,Duramboros,1
+116,Lagombi,1
+117,Green Nargacuga,1
+118,Nibelsnarf,1
+119,Crimson Qurupeco,1
+120,Purple Ludroth,1
+121,Brute Tigrex,1
+122,Steel Uragaan,1
+123,Volvidon,1
+124,Zinogre,1
+125,Amatsu,1
+126,Brachydios,1
+127,Goldbeard Ceadeus,1
+128,Savage Deviljho,1
+129,Dire Miralis,1
+130,Rust Duramboros,1
+131,Baleful Gigginox,1
+132,Great Worggi,1
+133,Hallowed Jhen Mohran,1
+134,Ivory Lagiacrus,1
+135,Abyssal Lagiacrus,1
+136,Lucent Nargacuga,1
+137,Stygian Zinogre,1
+138,Konchu,0
+139,Zamite,0
+140,Ruby Basarios,1
+141,Gore Magala,1
+142,Shagaru Magala,1
+143,Kecha Wacha,1
+144,Najarala,1
+145,Nerscylla,1
+146,Seltas,1
+147,Seltas Queen,1
+148,Tetsucabra,1
+149,Molten Tigrex,1
+150,Zamtrios,1
+151,Dah'ren Mohran,1
+152,Dalamadur,1
+153,Oroshi Kirin,1
+154,Raging Brachydios,1
+155,Chaotic Gore Magala,1
+156,Ash Kecha Wacha,1
+157,Tidal Najarala,1
+158,Shrouded Nerscylla,1
+159,Desert Seltas,1
+160,Desert Seltas Queen,1
+161,Seregios,1
+162,Berserk Tetsucabra,1
+163,Tigerstripe Zamtrios,1
+164,Shah Dalamadur,1
+165,Gogmazios,1
+166,Maccao,0
+167,Moofah,0
+168,Redhelm Arzuros,1
+169,Astalos,1
+170,Stonefist Hermitaur,1
+171,Gammoth,1
+172,Glavenus,1
+173,Hellblade Glavenus,1
+174,Great Maccao,1
+175,Malfestio,1
+176,Snowbaron Lagombi,1
+177,Mizutsune,1
+178,Silverwind Nargacuga,1
+179,Dreadking Rathalos,1
+180,Dreadqueen Rathian,1
+181,Drilltusk Tetsucabra,1
+182,Grimclaw Tigrex,1
+183,Deadeye Yian Garuga,1
+184,Thunderlord Zinogre,1
+185,Nakaros,1
+186,Boltreaver Astalos,1
+187,Bloodbath Diablos,1
+188,Elderfrost Gammoth,1
+189,Nightcloak Malfestio,1
+190,Soulseer Mizutsune,1
+191,Crystalbeard Uragaan,1
+192,Valstrax,1
+193,Barnos,0
+194,Boaboa,0
+195,Cortos,0
+196,Gajalaka,0
+197,Gajau,0
+198,Gastodon,0
+199,Girros,0
+200,Grimalkyne,0
+201,Jagras,0
+202,Kestodon,0
+203,Mernos,0
+204,Noios,0
+205,Raphinos,0
+206,Shamos,0
+207,Wulg,0
+208,Anjanath,1
+209,Fulgur Anjanath,1
+210,Banbaro,1
+211,Bazelgeuse,1
+212,Seething Bazelgeuse,1
+213,Behemoth,1
+214,Beotodus,1
+215,Dodogama,1
+216,Acidic Glavenus,1
+217,Great Girros,1
+218,Great Jagras,1
+219,Jyuratodus,1
+220,Kulu-Ya-Ku,1
+221,Kulve Taroth,1
+222,Legiana,1
+223,Shrieking Legiana,1
+224,Leshen,1
+225,Ancient Leshen,1
+226,Namielle,1
+227,Nergigante,1
+228,Ruiner Nergigante,1
+229,Odogaron,1
+230,Ebony Odogaron,1
+231,Paolumu,1
+232,Nightshade Paolumu,1
+233,Pukei-Pukei,1
+234,Radobaan,1
+235,Safi'jiiva,1
+236,Shara Ishvalda,1
+237,Tobi-Kadachi,1
+238,Viper Tobi-Kadachi,1
+239,Tzitzi-Ya-Ku,1
+240,Vaal Hazak,1
+241,Blackveil Vaal Hazak,1
+242,Xeno'jiiva,1
+243,Zorah Magdaros,1
+244,Bombadgy,0
+245,Gowngoat,0
+246,Izuchi,0
+247,Rachnoid,0
+248,Pyrantula,0
+249,Aknosom,1
+250,Almudron,1
+251,Magma Almudron,1
+252,Apex Arzuros,1
+253,Bishaten,1
+254,Blood Orange Bishaten,1
+255,Risen Chameleos,1
+256,Apex Diablos,1
+257,Espinas,1
+258,Flaming Espinas,1
+259,Gaismagorm,1
+260,Garangolm,1
+261,Goss Harag,1
+262,Great Izuchi,1
+263,Risen Kushala Daora,1
+264,Lunagaron,1
+265,Magnamalo,1
+266,Scorned Magnamalo,1
+267,Malzeno,1
+268,Primordial Malzeno,1
+269,Apex Mizutsune,1
+270,Violet Mizutsune,1
+271,Rakna-Kadaki,1
+272,Pyre Rakna-Kadaki,1
+273,Apex Rathalos,1
+274,Apex Rathian,1
+275,Risen Shagaru Magala,1
+276,Somnacanth,1
+277,Aurora Somnacanth,1
+278,Risen Teostra,1
+279,Tetranadon,1
+280,Thunder Serpent Narwa,1
+281,Narwa the Allmother,1
+282,Crimson Glow Valstrax,1
+283,Risen Crimson Glow Valstrax,1
+284,Velkhana,1
+285,Wind Serpent Ibushi,1
+286,Apex Zinogre,1
+287,Baunos,0
+288,Ceratonoth,0
+289,Dalthydon,0
+290,Gajios,0
+291,Gelidron,0
+292,Guardian Seikret,0
+293,Harpios,0
+294,Kranodath,0
+295,Nerscylla Hatchling,0
+296,Piragill,0
+297,Porkeplume,0
+298,Rafma,0
+299,Talioth,0
+300,Ajarakan,1
+301,Arkveld,1
+302,Guardian Arkveld,1
+303,Balahara,1
+304,Chatacabra,1
+305,Doshaguma,1
+306,Guardian Doshaguma,1
+307,Guardian Ebony Odogaron,1
+308,Guardian Fulgur Anjanath,1
+309,Hirabami,1
+310,Jin Dahaad,1
+311,Lala Barina,1
+312,Nu Udra,1
+313,Quematrice,1
+314,Guardian Rathalos,1
+315,Rey Dau,1
+316,Rompopolo,1
+317,Uth Duna,1
+318,Xu Wu,1
+319,Zoh Shia,1
+320,Bulaqchi,0
+321,Comaqchi,0
+322,Hypnocatrice,1
+323,Agnaktor,1
+324,Larinoth,0
+325,Ahtal-Ka,1
+326,Rustrazor Ceanataur,1
+327,Frostfang Barioth,1
+328,Coral Pukei-Pukei,1
+329,Boggi,0
