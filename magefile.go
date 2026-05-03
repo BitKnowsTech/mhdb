@@ -37,3 +37,11 @@ func BuildFull() error {
 
 	return nil
 }
+
+func Run() {
+	cmd := exec.Command("./build/mhdb")
+	cmd.Stdout = os.Stdout
+	cmd.Stderr = os.Stderr
+
+	cmd.Run()
+}
