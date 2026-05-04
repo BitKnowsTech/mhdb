@@ -14,7 +14,7 @@ mage buildfull
 
 - Run the project
 ```console
-./build/mhdb
+mage run
 ```
 
 ## Building the DB
