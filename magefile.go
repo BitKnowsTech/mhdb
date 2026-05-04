@@ -12,8 +12,11 @@ import (
 )
 
 func BuildDB() error {
-	fmt.Println("Test DB install...")
-	return nil
+	cmd := exec.Command("go", "run", "./cmd/database/build")
+	cmd.Stderr = os.Stderr
+	cmd.Stdout = os.Stdout
+
+	return cmd.Run()
 }
 
 func BuildBin() error {
@@ -24,7 +27,7 @@ func BuildBin() error {
 		appName += ".exe"
 	}
 
-	cmd := exec.Command("go", "build", "-o", fmt.Sprintf("./build/%s", appName), "main.go")
+	cmd := exec.Command("go", "build", "-o", fmt.Sprintf("./build/%s", appName), ".")
 	cmd.Stdout = os.Stdout
 	cmd.Stderr = os.Stderr
 
@@ -39,7 +42,8 @@ func BuildFull() error {
 }
 
 func Run() {
-	cmd := exec.Command("./build/mhdb")
+	os.Chdir("./build")
+	cmd := exec.Command("./mhdb")
 	cmd.Stdout = os.Stdout
 	cmd.Stderr = os.Stderr
 
